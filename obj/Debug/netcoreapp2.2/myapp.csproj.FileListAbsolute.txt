@@ -1,0 +1,11 @@
+C:\Users\Babak\OneDrive - TEC\C#\myapp\bin\Debug\netcoreapp2.2\myapp.deps.json
+C:\Users\Babak\OneDrive - TEC\C#\myapp\bin\Debug\netcoreapp2.2\myapp.runtimeconfig.json
+C:\Users\Babak\OneDrive - TEC\C#\myapp\bin\Debug\netcoreapp2.2\myapp.runtimeconfig.dev.json
+C:\Users\Babak\OneDrive - TEC\C#\myapp\bin\Debug\netcoreapp2.2\myapp.dll
+C:\Users\Babak\OneDrive - TEC\C#\myapp\bin\Debug\netcoreapp2.2\myapp.pdb
+C:\Users\Babak\OneDrive - TEC\C#\myapp\obj\Debug\netcoreapp2.2\myapp.csprojAssemblyReference.cache
+C:\Users\Babak\OneDrive - TEC\C#\myapp\obj\Debug\netcoreapp2.2\myapp.csproj.CoreCompileInputs.cache
+C:\Users\Babak\OneDrive - TEC\C#\myapp\obj\Debug\netcoreapp2.2\myapp.AssemblyInfoInputs.cache
+C:\Users\Babak\OneDrive - TEC\C#\myapp\obj\Debug\netcoreapp2.2\myapp.AssemblyInfo.cs
+C:\Users\Babak\OneDrive - TEC\C#\myapp\obj\Debug\netcoreapp2.2\myapp.dll
+C:\Users\Babak\OneDrive - TEC\C#\myapp\obj\Debug\netcoreapp2.2\myapp.pdb
